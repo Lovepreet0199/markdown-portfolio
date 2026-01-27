@@ -26,7 +26,7 @@ This text is **bold** and this is *italic*. This is ***bold and italic***.
 - [Map elevations for houses](https://drive.google.com/file/d/1pQAiiL5sSrUDeKj0f4syV5mzeKmB0VMp/view?usp=drive_link, https://drive.google.com/file/d/1R3w9njYVRBOT0vZ8l1lBvZgSdXao8-J1/view?usp=drive_link)
 
 <!--![Coding is a beautfiul thing!](images/codingImage.jpg) THIS IS HOW TO ADD IMAGES IN MARKDOWN. WITHOUT HTML TAG-->
-<img src="images/codingImage.jpg" width="100">
+<img src="images/codingImage.jpg" width="300">
 ## Contact and Socials
 
 Make sure you pick a case and stick it. I'm using `kebab-case`.
