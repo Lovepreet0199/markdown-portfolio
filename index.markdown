@@ -25,7 +25,7 @@ This text is **bold** and this is *italic*. This is ***bold and italic***.
 - [Renovation for hotel](https://drive.google.com/file/d/1c8cRsFA_5wFMpTLQaKXFvmx8pL9k3x5n/view?usp=drive_link, https://drive.google.com/file/d/1a_OCV8fxKQvK_uk7kmvKl7y0NP-n6uUz/view?usp=drive_link, https://drive.google.com/file/d/1PHNTNpw4fYV3NXSuC8O0h9XE1izDBueD/view?usp=drive_link)
 - [Map elevations for houses](https://drive.google.com/file/d/1pQAiiL5sSrUDeKj0f4syV5mzeKmB0VMp/view?usp=drive_link, https://drive.google.com/file/d/1R3w9njYVRBOT0vZ8l1lBvZgSdXao8-J1/view?usp=drive_link)
 
-![Coding is a beautfiul thing!](images/codingImage.jpg)
+<!--![Coding is a beautfiul thing!](images/codingImage.jpg) THIS IS HOW TO ADD IMAGES IN MARKDOWN. WITHOUT HTML TAG-->
 <img src="images/codingImage.jpg" width="100">
 ## Contact and Socials
 
