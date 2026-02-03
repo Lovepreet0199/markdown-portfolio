@@ -1,5 +1,3 @@
-<!--control shift v for preview-->
-
 # Lovepreet Singh Sandhu
 
 <img src="images/myimage.jpg" alt="Lovepreet Singh Sandhu" width="180">
