@@ -7,7 +7,7 @@ You can find me online through the following platforms:
 - [Stackoverflow]( https://stackoverflow.com/users/32191345/lovepreet-sandhu)
 - Discord username: Lovepreet0199
 
----------
+---
 
 
 ### Navigation
