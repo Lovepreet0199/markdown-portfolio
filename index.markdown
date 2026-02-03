@@ -1,9 +1,10 @@
 # Lovepreet Singh Sandhu
 
+---
+
 <img src="images/myimage.jpg" alt="Lovepreet Singh Sandhu" width="180">
 
 ---
-
 
 ## Welcome to my Markdown portfolio!
 

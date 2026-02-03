@@ -1,5 +1,7 @@
 # Projects
 
+---
+
 ## Group Login System(JavaScript)
 A group login project focused on creating a basic login system using JavaScript.
 The project demonstrated user input handling, basic authentication logic using control structures, popup finction, switch statement and conditionals.
